@@ -3,6 +3,6 @@ export const colors = {
   primaryGreen: "#2da42f",
   primaryBlue: "#2980b9",
   textWhite: "#fff",
-  backgroundWhite: "#fde8e8",
+  backgroundWhite: "#e7dbdb",
   primaryText: "#333",
 };
